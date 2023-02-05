@@ -67,6 +67,9 @@ For support variables, these were self-report, and might indicate reporter biase
 # Conclusion 
 Students who come from high concentrated poverty areas have lower test scores. However, home and school support is a significant indicator for increase academic achievement and standardized test scores for students who come from areas of high risks such as high crime rates, poverty, and food deserts. Create resources, programs and policies that help at-risk populations for academic achievement. This also shows the importance of being involved with adolescent's social and academic life to help increase positive health outcomes and behaviors.
 
+# Appendixes 
+Map 1. Students living outside and inside SBCSUD boundary 
+![1_Students living outside and inside SBCSUD boundary](https://user-images.githubusercontent.com/50031745/216805313-747e6f82-8c61-4c43-bcd0-1efe1b9bd4d6.JPG)
 
 
 
