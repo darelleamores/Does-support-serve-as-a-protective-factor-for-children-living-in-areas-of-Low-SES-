@@ -69,7 +69,63 @@ Students who come from high concentrated poverty areas have lower test scores. H
 
 # Appendixes 
 Map 1. Students living outside and inside SBCSUD boundary 
-![1_Students living outside and inside SBCSUD boundary](https://user-images.githubusercontent.com/50031745/216805313-747e6f82-8c61-4c43-bcd0-1efe1b9bd4d6.JPG)
+![Map 1  Students living outside and inside SBCUSD boundary](https://user-images.githubusercontent.com/50031745/216805655-bb79ae53-555c-42a7-950d-ed2656e28346.png)
+
+Map 2. Poverty and English Test scores
+![Map 2  Poverty and English Test scores](https://user-images.githubusercontent.com/50031745/216805665-14e7a7f6-34a7-4d1a-84e3-0224fc1ab490.png)
+
+Map 3. Poverty and Math Test scores
+![Map 3  Poverty and Math Test scores](https://user-images.githubusercontent.com/50031745/216805672-4d0c24bc-d344-48ad-a759-4466c4e0c14c.png)
+
+Map 4. Food Environment
+![Map 4  Food Environment](https://user-images.githubusercontent.com/50031745/216805681-5c42aeb5-7105-4886-96ca-c69b56b0e87b.png)
+
+Map 5. Food Environment and English Test Scores
+![Map 5  Food Environment and English Test Scores](https://user-images.githubusercontent.com/50031745/216805692-de8083e1-bc6c-4ede-8b40-2f51a68f53ba.png)
+
+Map 6. Food Environment and Math Test Scores
+![Map 6  Food Environment and Math Test Scores](https://user-images.githubusercontent.com/50031745/216805700-ba9cb4ac-fb4f-4a88-9262-ff1c87840129.png)
+
+Map 7. English Scores by 2019 USA Average Crime Index
+![Map 7  English Scores by 2019 USA Average Crime Index](https://user-images.githubusercontent.com/50031745/216805727-d2316ad9-9793-49b2-ad9e-4bf73afaa611.png)
+
+Map 8. Math Scores by 2019 USA Average Crime Index
+![Map 8  Math Scores by 2019 USA Average Crime Index](https://user-images.githubusercontent.com/50031745/216805730-f05c6ca0-8b9f-4a6b-b9f5-c1de797d38f6.png)
+
+Map 9. Outside support and English Test Scores
+![Map 9  Outside support and English Test Scores](https://user-images.githubusercontent.com/50031745/216805734-c31239cd-a86d-4c7d-98de-24426538770c.png)
+
+Map 10. Outside support and English Test Scores
+![Map 10  Outside support and English Test Scores](https://user-images.githubusercontent.com/50031745/216805743-128ccaeb-cd71-47d6-87af-59f73d3eabbd.png)
+
+Map 11. School support and English Test Scores
+![Map 11  School support and English Test Scores](https://user-images.githubusercontent.com/50031745/216805748-69ff2a4e-23d8-4e63-b19f-33bd6b21aa2f.png)
+
+Map 12. School Support and Math Test Scores
+![Map 12  School Support and Math Test Scores](https://user-images.githubusercontent.com/50031745/216805762-108e20d2-ab37-4d3e-b884-79b253c410ad.png)
+
+Map 13. Home Support and English Test Scores
+![Map 13  Home Support and English Test Scores](https://user-images.githubusercontent.com/50031745/216805776-7efccbcf-4945-4211-a6fa-2d08691324fd.png)
+
+Map 13. Home Support and English Test Scores
+![Map 13  Home Support and English Test Scores](https://user-images.githubusercontent.com/50031745/216805784-659b6297-36e7-4f9b-81e9-2238ed3b3f03.png)
+
+Map 14. Home Support and Math Test Scores
+![Map 14  Home Support and Math Test Scores](https://user-images.githubusercontent.com/50031745/216805794-5bd38629-9301-4914-8f1e-c4eb889ac326.png)
+
+Table 1. Descriptive Statistics 
+![Table 1  Descripriptive Statistics](https://user-images.githubusercontent.com/50031745/216805809-e085de2e-a750-4c83-af23-b3806b146dac.png)
+
+Table 2. Logistic Regression 
+![Table 2  Logistic Regression](https://user-images.githubusercontent.com/50031745/216805815-6a593717-018c-425d-84d8-ac61097804ac.png)
+
+
+
+
+
+
+
+
 
 
 
