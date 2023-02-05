@@ -136,52 +136,79 @@ Table 2. Logistic Regression
 ![Table 2  Logistic Regression](https://user-images.githubusercontent.com/50031745/216805815-6a593717-018c-425d-84d8-ac61097804ac.png)
 
 # References 
-
 APA. (2012). Presidential Task Force on Educational Disparities. Ethnic and racial disparities in education: Psychology’s contributions to understanding and reducing disparities. Retrieved from http://www.apa.org/ed/resources/racial-disparities.aspx
+
 APA. (2017). Ethnic and Racial Minorities & Socioeconomic Status. American Psychological Association. Retrieved from https://www.apa.org/pi/ses/resources/publications/minorities
+
 Bayless, S. D., Jenson, J. M., Richmond, M. K., Pampel, F. C., Cook, M., & Calhoun, M. (2018). Effects of an Afterschool Early Literacy Intervention on the Reading Skills of Children in Public Housing Communities. Child & Youth Care Forum, 47(4), 537-561. doi:10.1007/s10566-018-9442-5
+
 Casillas, A., Robbins, S., Allen, J., Kuo, Y.-L., Hanson, M. A., & Schmeiser, C. (2012). Predicting early academic failure in high school from prior academic achievement, psychosocial characteristics, and behavior. Journal of Educational Psychology, 104(2), 407. 
+
 CDC. (2020, February 27, 2020). Adult Obesity Facts. Retrieved from https://www.cdc.gov/obesity/data/adult.html
+
 Conger, R. D., Conger, K. J., & Martin, M. J. (2010). Socioeconomic Status, Family Processes, and Individual Development. Journal of marriage and the family, 72(3), 685-704. doi:10.1111/j.1741-3737.2010.00725.x
+
 Cox, R. G., Zhang, L., Johnson, W. D., & Bender, D. R. (2007). Academic Performance and Substance Use: Findings From a State Survey of Public High School Students. Journal of School Health, 77(3), 109-115. doi:10.1111/j.1746-1561.2007.00179.x
+
 Crede, J., Wirthwein, L., McElvany, N., & Steinmayr, R. (2015). Adolescents' academic achievement and life satisfaction: the role of parents' education. Frontiers in psychology, 6, 52-52. doi:10.3389/fpsyg.2015.00052
+
 Crowe, J., Lacy, C., & Columbus, Y. (2018). Barriers to Food Security and Community Stress in an Urban Food Desert. Urban Science, 2(2). doi:10.3390/urbansci2020046
+
 Cybele Raver, C., & Blair, C. (2016). Neuroscientific Insights: Attention, Working Memory, and Inhibitory Control. Future of Children, 26(2), 95-118. doi:10.1353/foc.2016.0014
+
 Foster, C. E., Horwitz, A., Thomas, A., Opperman, K., Gipson, P., Burnside, A., . . . King, C. A. (2017). Connectedness to family, school, peers, and community in socially vulnerable adolescents. Children and youth services review, 81, 321-331. doi:10.1016/j.childyouth.2017.08.011
+
 Frndak, S. E. (2014). An ecological study of food desert prevalence and 4th grade academic achievement in New York State school districts. Journal of Public Health Research, 3(3), 130-137. doi:10.4081/jphr.2014.319
+
 Gómez-Pinilla, F. (2008). Brain foods: the effects of nutrients on brain function. Nature reviews. Neuroscience, 9(7), 568-578. doi:10.1038/nrn2421
+
 Hahn, R. A., & Truman, B. I. (2015). Education Improves Public Health and Promotes Health Equity. International journal of health services : planning, administration, evaluation, 45(4), 657-678. doi:10.1177/0020731415585986
+
 Haynie, D. L., Silver, E., & Teasdale, B. (2006). Neighborhood Characteristics, Peer Networks, and Adolescent Violence. Journal of Quantitative Criminology, 22(2), 147-169. doi:10.1007/s10940-006-9006-y
+
 Herruzo, C., Raya Trenas, A., Pino, M. J., & Herruzo, J. (2020). Study of the Differential Consequences of Neglect and Poverty on Adaptive and Maladaptive Behavior in Children. Int J Environ Res Public Health, 17(3). doi:10.3390/ijerph17030739
+
 Hilmers, A., Hilmers, D. C., & Dave, J. (2012). Neighborhood disparities in access to healthy foods and their effects on environmental justice. American journal of public health, 102(9), 1644-1654. doi:10.2105/AJPH.2012.300865
+
 Hughes, J. N., Cao, Q., West, S. G., Allee Smith, P., & Cerda, C. (2017). Effect of retention in elementary grades on dropping out of school early. Journal of school psychology, 65, 11-27. doi:10.1016/j.jsp.2017.06.003
+
 Hyde, J. S., & Mertz, J. E. (2009). Gender, culture, and mathematics performance. Proceedings of the National Academy of Sciences of the United States of America, 106(22), 8801-8807. doi:10.1073/pnas.0901265106
+
 Jensen, E. (2009). Teaching with poverty in mind : what being poor does to kids&#39; brains and what schools can do about it: Alexandria, Va. : ASCD, [2009] ©2009.
+
 Johnson, W., McGue, M., & Iacono, W. G. (2007). Socioeconomic Status and School Grades: Placing their Association in Broader Context in a Sample of Biological and Adoptive Families. Intelligence, 35(6), 526-541. doi:10.1016/j.intell.2006.09.006
+
 Kim, S., Mazza, J., Zwanziger, J., & Henry, D. (2014). School and Behavioral Outcomes Among Inner City Children: Five-Year Follow-Up. Urban education, 49(7), 835-856. doi:10.1177/0042085913501895
+
 Li, S., Xu, Q., & Xia, R. (2020). Relationship Between SES and Academic Achievement of Junior High School Students in China: The Mediating Effect of Self-Concept. Frontiers in psychology, 10, 2513-2513. doi:10.3389/fpsyg.2019.02513
+
 Luttenberger, S., Wimmer, S., & Paechter, M. (2018). Spotlight on math anxiety. Psychology research and behavior management, 11, 311-322. doi:10.2147/PRBM.S141421
+
 Manly, J. T., Lynch, M., Oshri, A., Herzog, M., & Wortel, S. N. (2013). The impact of neglect on initial adaptation to school. Child maltreatment, 18(3), 155-170. doi:10.1177/1077559513496144
+
 Mayo, A., & Siraj, I. (2015). Parenting practices and children’s academic success in low-SES families. Oxford Review of Education, 41(1), 47-63. doi:10.1080/03054985.2014.995160
+
 Meade, E. E. (2014). Overview of Community Characteristics in Areas with Concentrated Poverty Department of Health and Human Services. 
+
 Moffitt, T. E., & Klaus-Grawe Think, T. (2013). Childhood exposure to violence and lifelong health: clinical intervention science and stress-biology research join forces. Development and psychopathology, 25(4 Pt 2), 1619-1634. doi:10.1017/S0954579413000801
+
 Moradi Sheykhjan, T., & Jabari, K. (2014). Self-Esteem and Academic Achievement of High School Students. 2, 38. 
+
 Navarro, J.-J., García-Rubio, J., & Olivares, P. R. (2015). The Relative Age Effect and Its Influence on Academic Performance. PloS one, 10(10), e0141895-e0141895. doi:10.1371/journal.pone.0141895
+
 Neckerman, K. M., Lovasi, G. S., Davies, S., Purciel, M., Quinn, J., Feder, E., . . . Rundle, A. (2009). Disparities in urban neighborhood conditions: evidence from GIS measures and field observation in New York City. J Public Health Policy, 30 Suppl 1, S264-285. doi:10.1057/jphp.2008.47
+
 Neff, R. A., Palmer, A. M., McKenzie, S. E., & Lawrence, R. S. (2009). Food Systems and Public Health Disparities. Journal of hunger & environmental nutrition, 4(3-4), 282-314. doi:10.1080/19320240903337041
+
 Noonan, A. S., Velasco-Mondragon, H. E., & Wagner, F. A. (2016). Improving the health of African Americans in the USA: an overdue opportunity for social justice. Public health reviews, 37, 12-12. doi:10.1186/s40985-016-0025-4
+
 Pechtel, P., & Pizzagalli, D. A. (2011). Effects of early life stress on cognitive and affective function: an integrated review of human literature. Psychopharmacology, 214(1), 55-70. doi:10.1007/s00213-010-2009-2
+
 Rezaei-Dehaghani, A., Keshvari, M., & Paki, S. (2018). The Relationship between Family Functioning and Academic Achievement in Female High School Students of Isfahan, Iran, in 2013-2014. Iranian journal of nursing and midwifery research, 23(3), 183-187. doi:10.4103/ijnmr.IJNMR_87_17
+
 Scaglioni, S., De Cosmi, V., Ciappolino, V., Parazzini, F., Brambilla, P., & Agostoni, C. (2018). Factors Influencing Children's Eating Behaviours. Nutrients, 10(6), 706. doi:10.3390/nu10060706
+
 Topor, D. R., Keane, S. P., Shelton, T. L., & Calkins, S. D. (2010). Parent involvement and student academic performance: a multiple mediational analysis. Journal of prevention & intervention in the community, 38(3), 183-197. doi:10.1080/10852352.2010.486297
+
 Widener, M. J., Metcalf, S. S., & Bar-Yam, Y. (2012). Developing a mobile produce distribution system for low-income urban residents in food deserts. J Urban Health, 89(5), 733-745. doi:10.1007/s11524-012-9677-7
-
-
-
-
-
-
-
-
-
 
